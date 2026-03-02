@@ -49,4 +49,21 @@ body {
     padding: 20px;
     background-color: #eee;
   }
+
+  nav {
+  text-align: center;
+  margin: 20px 0;
+}
+
+nav a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: #556b2f;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
   
