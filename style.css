@@ -97,7 +97,8 @@ button {
   font-size: 16px;
   font-weight: 600;
   border: none;
-  border-radius: 8px;
+  /* make corners more rounded */
+  border-radius: 25px;
   background: linear-gradient(to right, #556b2f, #6b8e23);
   color: white;
   cursor: pointer;
